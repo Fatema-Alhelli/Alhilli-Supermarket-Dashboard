@@ -1,6 +1,6 @@
 # Alhilli-Supermarket-Dashboard
 An Excel dashboard project for analyzing supermarket sales, profit, and units sold across branches, categories, and months.
-# Alhilli Supermarket Dashboard
+
 
 This project is an Excel dashboard created to analyze and visualize supermarket performance data.
 
